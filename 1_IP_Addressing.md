@@ -1,2 +1,3 @@
 # networking-basics-for-cybersecurity
-This repository contains basic to advanced networking concepts explained in a simple way for beginners in cybersecurity. It includes IP addressing, protocols, ports etc.
+# IP Addressing
+This document explains the fundamentals of IP addressing, including IPv4, IPv6, public and private IP addresses, loopback addresses, and their role in network communication.
